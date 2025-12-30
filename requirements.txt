@@ -1,0 +1,21 @@
+# Requisitos para el Sistema de Extracción de Titulaciones
+# Instalar con: pip install -r requirements.txt
+
+# Web Scraping - Dr. Jones
+playwright>=1.41.0
+beautifulsoup4>=4.12.0
+lxml>=5.0.0
+
+# Validación de datos - Evelyn
+jsonschema>=4.20.0
+
+# Utilidades generales
+python-dateutil>=2.8.2
+requests>=2.31.0
+
+# Opcional: Para análisis avanzado
+pandas>=2.1.0
+
+# Opcional: Para exportación a diferentes formatos
+openpyxl>=3.1.0
+pyyaml>=6.0.0
